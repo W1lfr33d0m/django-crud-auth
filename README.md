@@ -1,2 +1,2 @@
 # django-crud-auth
-Django CRUD auth wbsite
+Django CRUD auth website
